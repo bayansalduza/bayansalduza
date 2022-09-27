@@ -13,8 +13,6 @@
    many projects are among them. I have been involved in
    .NET Core and .NET Framework projects many times. I
    am accustomed to English terms and software
-   standards, teamwork. Currently, I continue my active
-   working life with the İşnet team as an outsource from
-   Efectura company
+   standards, teamwork. 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Bayansalduza&show_icons=true&theme=radical)
