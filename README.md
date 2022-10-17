@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Efectura.
+- 🔭 I’m currently working on Avva Mobile.
 - 🌱 I’m currently learning Cumhuriyet Üniversitesi 
 
    I studied at a university suitable for my interest in
