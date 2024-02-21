@@ -7,7 +7,7 @@
    technology, innovations, software, curiosity and career
    planning, and gained my first professional work
    experience in the software industry in 2020. I have
-   about 2 year working experience. I played an active role
+   about 3 year working experience. I played an active role
    in many technologies and projects. Coca Cola CCI,
    Electronic Signature, micro service architectures and
    many projects are among them. I have been involved in
