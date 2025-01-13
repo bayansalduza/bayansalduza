@@ -12,7 +12,7 @@ Hi there! I'm Abdulbaki Bayansalduz, a passionate **Back-end Developer** with ov
   - Delivered solutions for CRM systems, **RESTful APIs**, and real-time data processing.
 
 ### 🌟 Recent Experience:
-1. **Backend Developer at FRANK Digital (Feb 2023 – Present):**
+1. **Backend Developer at FRANK Digital (Feb 2023 – Jan 2025):**
    - Developed award-winning CMS projects for high-profile brands like **Petrol Ofisi**.
    - Implemented **RESTful API integrations** for efficient data synchronization.
 2. **Software Developer at Avva Mobile (Oct 2022 – Jan 2023):**
