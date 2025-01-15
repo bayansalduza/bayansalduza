@@ -30,6 +30,6 @@ I’m in the process of uploading new projects and showcasing the skills I've ga
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bayansalduza/) or check out my [GitHub](https://github.com/bayansalduza) for more insights into my work!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bayansalduza/) for more insights into my work!
 
 📫 **Contact:** [bayansalduza@gmail.com](mailto:bayansalduza@gmail.com)
