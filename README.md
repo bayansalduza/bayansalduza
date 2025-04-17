@@ -24,6 +24,7 @@ Hi there! I'm Abdulbaki Bayansalduz, a passionate **Back-end Developer** with ov
 
 ### 📚 Learning and Growth:
 I'm currently expanding my expertise in **microservices architecture**, **cloud computing**, and **advanced frontend frameworks** to complement my backend knowledge.
+I actively work as a software developer at Sovos.
 
 ### 🔄 Updates to My GitHub:
 I’m in the process of uploading new projects and showcasing the skills I've gained recently. While my current repositories reflect earlier work, I’m excited to share updated examples that demonstrate my growth and capabilities.
