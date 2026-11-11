@@ -1,36 +1,47 @@
+<div align="center">
 
-## Welcome to My GitHub Profile! 👋
+# Abdulbaki Bayansalduz
 
-Hi there! I'm Abdulbaki Bayansalduz, a passionate **Back-end Developer** with over **4 years of professional experience**. Throughout my career, I have honed my skills in building scalable, efficient, and user-focused solutions. My expertise lies in modern backend technologies, database optimization, and seamless API integrations.
+**Software Engineer · .NET Backend Developer**
 
-### 🚀 A Quick Overview of My Experience:
-- **Backend Development:**
-  - Proficient in **C#** and **.NET**, with extensive experience in **Entity Framework**, **API development**, and scalable solutions.
-- **Database Technologies:**
-  - Skilled in **MSSQL** and **NHibernate**, with a focus on large-scale database optimization and query performance.
-- **Dynamic Integrations:**
-  - Delivered solutions for CRM systems, **RESTful APIs**, and real-time data processing.
+Enterprise integrations · SQL Server performance · Content management systems
 
-### 🌟 Recent Experience:
-1. **Backend Developer at FRANK Digital (Feb 2023 – Jan 2025):**
-   - Developed award-winning CMS projects for high-profile brands like **Petrol Ofisi**.
-   - Implemented **RESTful API integrations** for efficient data synchronization.
-2. **Software Developer at Avva Mobile (Oct 2022 – Jan 2023):**
-   - Enhanced CMS performance for projects like **Rıdee** and **ArabaBul**.
-3. **Software Developer at İşnet (Feb 2022 – Jun 2022):**
-   - Managed large-scale ERP projects, optimizing **380 million+ data entries**.
-4. **Backend Developer at Efectura (Jan 2022 – Sep 2022):**
-   - Contributed to enterprise projects for **Coca Cola CCI** and **Paycell**.
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D4ED8?style=flat-square)](https://bakibayansalduz.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/bayansalduza/)
+[![Email](https://img.shields.io/badge/Email-334155?style=flat-square)](mailto:bayansalduza@gmail.com)
 
-### 📚 Learning and Growth:
-I'm currently expanding my expertise in **microservices architecture**, **cloud computing**, and **advanced frontend frameworks** to complement my backend knowledge.
-I actively work as a software developer at Sovos.
+</div>
 
-### 🔄 Updates to My GitHub:
-I’m in the process of uploading new projects and showcasing the skills I've gained recently. While my current repositories reflect earlier work, I’m excited to share updated examples that demonstrate my growth and capabilities.
+## What I do
 
----
+I'm a software engineer at **Sovos**, where I build C# and .NET services for e-invoicing, e-archive invoices, and electronic dispatch notes. My work includes maintaining WCF/SOAP integrations for N11 and Trendyol and improving SQL Server query performance in high-volume data workflows.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bayansalduza/) for more insights into my work!
+## Featured projects
 
-📫 **Contact:** [bayansalduza@gmail.com](mailto:bayansalduza@gmail.com)
+### BakiB · Content management system
+
+> A **.NET 8 CMS** for managing pages, content blocks, and SEO settings from an admin panel. RabbitMQ triggers cache invalidation when content changes.
+>
+> [Live site](https://bakibayansalduz.com/) · [Admin panel](https://admin.bakibayansalduz.com/)
+
+### BakiimApp · Mobile venue discovery
+
+> An app for discovering venues. I'm building the **.NET API** and the mobile app with **React Native, Expo, and TypeScript**.
+
+## Experience
+
+| Role | Selected work |
+| :--- | :--- |
+| **Sovos** · Software Engineer<br>Mar 2025–Present | Electronic document services, marketplace integrations, and SQL Server performance. |
+| **FRANK Digital** · Backend Developer<br>Feb 2023–Feb 2025 | CMS backends for Petrol Ofisi, İş Portföy, and United Payment. Built REST integrations and connected web forms to CRM systems. |
+| **Avva Mobile Enterprise Solutions** · Software Developer<br>Oct 2022–Jan 2023 | .NET MVC CMS integrations and performance improvements for Ridee and ArabaBul. |
+| **Efectura** · Backend Developer<br>Jan 2022–Sep 2022 | ERP integrations for Coca-Cola CCI and microservices for Paycell and Silverline. On assignment at İşnet, worked on a Merlin ERP data correction effort covering approximately **380 million records** using RabbitMQ and SQL Server stored procedures. |
+| **Detaysoft** · Junior .NET Developer<br>Dec 2020–Sep 2021 | Worked on a SAP-integrated electronic signature application using RabbitMQ, MongoDB, and Quartz.NET. |
+
+## Technical toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | C#, .NET, ASP.NET Core MVC, REST APIs, WCF, SOAP/XML, microservices |
+| **Data & messaging** | SQL Server, EF Core, Dapper, NHibernate, LINQ, RabbitMQ, Redis, MongoDB |
+| **Web & mobile** | Razor, JavaScript, TypeScript, React Native, Expo |
